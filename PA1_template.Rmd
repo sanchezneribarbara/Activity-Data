@@ -94,13 +94,13 @@ p
 echo = TRUE
 ```
 ###Histogram of total number of steps taken per day
-![Histogram of total number of steps taken per day](/home/bsanchez/Documents/repdata/Total_number_steps_na.png)
+![Histogram of total number of steps taken per day](Total_number_steps_na.png)
 
 ###Mean and median of the total number of steps
 #### Mean = 9354.23
 #### Median = 10395
 ###Time series plot of 5 minute interval
-![Time series plot of 5 minute interval](/home/bsanchez/Documents/repdata/Daily_activity_pattern_na.png)
+![Time series plot of 5 minute interval](Daily_activity_pattern_na.png)
 
 ### 5 minute interval that has maximum number of steps - 2355
 
@@ -111,9 +111,9 @@ echo = TRUE
 #### Median = 10395
 
 ###Histogram with no missing values. Missing values are median of the steps
-![Histogram with no missing values](/home/bsanchez/Documents/repdata/Total_number_sites.png)
+![Histogram with no missing values](Total_number_sites.png)
 
 ###Time series plot with no missing values
-![Time series plot of 5 minute interval](/home/bsanchez/Documents/repdata/Time_series_all.png)
+![Time series plot of 5 minute interval](Time_series_all.png)
 
 ###The plots do not look different because the median of the steps was taken to fill in the missing values.
